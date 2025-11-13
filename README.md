@@ -5,9 +5,11 @@
 -->
 # Welcome to my Read Me page!
 ---
-<p><img src="https://media1.tenor.com/m/sxzFaO6FVnQAAAAC/dr-house-pill.gif"/></p>
+
 # About Me
-**My name is Sorawit  Saelim.**
+<p><img src="https://media1.tenor.com/m/sxzFaO6FVnQAAAAC/dr-house-pill.gif"/></p>
+
+# My name is Sorawit  Saelim.
 **Some information:**
 - 😌 I’m currently studying at Kosen Kmitl.
 - ⚡ My hobby is either sleeping lazily or going fishing, if I got motivation I might hop on blender.
