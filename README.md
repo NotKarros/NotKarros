@@ -4,7 +4,7 @@
 **NotKarros/NotKarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### Welcome to my Read Me page!
-
+---
 ### About Me
 **My name is Sorawit  Saelim.**
 **Some information:**
@@ -23,6 +23,9 @@
 
 <h3 align="left">Languages and tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+## My quote: 
+### My laziness is kinda laziless
 
 ### My contacts:
 - [67991050@kmitl.ac.th](mailto:67991050@kmitl.ac.th)
